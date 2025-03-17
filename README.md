@@ -24,5 +24,5 @@ una pagina HTML proporcionada por la ALURA LATAM con logica JS que yo implemente
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⡘⢻⡏⣿⠶⢾⡇⣿⠙⢸⡏⡟⠛⠃⠀⠀⠀⠀⢸⣇⠀⣸⠸⣧⣠⡿⢸⡟⠛⠃⢸⡿⣿⡃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠛⠛⠁⠛⠀⠘⠃⠛⠀⠘⠃⠛⠛⠛⠃⠀⠀⠀⠀⠙⠛⠋⠀⠈⠛⠀⠘⠛⠛⠛⠘⠃⠈⠛⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
-si no entenden algo pregunten no se queden con la duda como hice yo
+si no entenden algo pregunten, no se queden con la duda.
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
